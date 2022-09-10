@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practical work 1", "Practical work 1", "{54E0C817-CC07-482B-AF32-2B4D4325B0BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalToBinaryConverter", "DecimalToBinaryConverter\DecimalToBinaryConverter.csproj", "{5E5F4151-C786-47C3-9F37-A3682C6E8BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5F4151-C786-47C3-9F37-A3682C6E8BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5F4151-C786-47C3-9F37-A3682C6E8BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5F4151-C786-47C3-9F37-A3682C6E8BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5F4151-C786-47C3-9F37-A3682C6E8BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E5F4151-C786-47C3-9F37-A3682C6E8BB2} = {54E0C817-CC07-482B-AF32-2B4D4325B0BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EF1240-FF81-480D-90F6-1F84B93962CC}
+	EndGlobalSection
+EndGlobal
